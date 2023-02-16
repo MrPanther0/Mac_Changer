@@ -1,4 +1,3 @@
-# Mac_Changer
 # MAC-Changer
 Use this Script to change your MAC Address. Have fun but do not do anything illegal......
 
